@@ -1,7 +1,7 @@
 
 # Assignment III: SQL Table Manipulation
 * **Student Name:** Niyongabo Blaise Pascal
-* **Student ID:** 202513244 **
+* **Student ID:** 202513244 
 * **Institution:** Kigali Independent University (ULK)[span_3](start_span)[span_3](end_span)
 * **Instructor:** Eric Maniraguha[span_4](start_span)[span_4](end_span)
 * **Chosen Business Idea:** Student Registration System[span_5](start_span)[span_5](end_span)[span_6](start_span)[span_6](end_span)
