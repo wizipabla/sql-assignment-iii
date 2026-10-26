@@ -30,7 +30,7 @@ This project involves designing, creating, and managing a relational database fo
 
 ### **3.1 Database and Table Creation**
 ```sql
-CREATE DATABASE niyongaboblaise_20241234_student_registration_system;
+CREATE DATABASE niyongaboblaise_202513244_student_registration_system;
 
 CREATE TABLE departments (
     department_id SERIAL PRIMARY KEY,
